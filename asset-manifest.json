@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec3c9ecd.chunk.css",
+    "main.js": "/static/js/main.8740d9cc.chunk.js",
+    "main.js.map": "/static/js/main.8740d9cc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.916fa6fb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.916fa6fb.js.map",
+    "static/js/2.2128b6ba.chunk.js": "/static/js/2.2128b6ba.chunk.js",
+    "static/js/2.2128b6ba.chunk.js.map": "/static/js/2.2128b6ba.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6918f5aecad5665d5a86bd98ae6fbaeb.js": "/precache-manifest.6918f5aecad5665d5a86bd98ae6fbaeb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ec3c9ecd.chunk.css.map": "/static/css/main.ec3c9ecd.chunk.css.map",
+    "static/js/2.2128b6ba.chunk.js.LICENSE.txt": "/static/js/2.2128b6ba.chunk.js.LICENSE.txt",
+    "static/media/eye.svg": "/static/media/eye.343ffe50.svg",
+    "static/media/fon.png": "/static/media/fon.6206770a.png",
+    "static/media/ChangePassword.module.css": "/static/media/fon.959a77a3.png",
+    "static/media/Sign.module.css": "/static/media/sign_1.ccb904b9.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.916fa6fb.js",
+    "static/js/2.2128b6ba.chunk.js",
+    "static/css/main.ec3c9ecd.chunk.css",
+    "static/js/main.8740d9cc.chunk.js"
+  ]
+}
