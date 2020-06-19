@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.9af9bf26.chunk.css",
-    "main.js": "./static/js/main.45b0479d.chunk.js",
-    "main.js.map": "./static/js/main.45b0479d.chunk.js.map",
+    "main.css": "./static/css/main.6b8ed394.chunk.css",
+    "main.js": "./static/js/main.17040c67.chunk.js",
+    "main.js.map": "./static/js/main.17040c67.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.b5b29441.js",
     "runtime-main.js.map": "./static/js/runtime-main.b5b29441.js.map",
     "static/js/2.97c6f9b2.chunk.js": "./static/js/2.97c6f9b2.chunk.js",
     "static/js/2.97c6f9b2.chunk.js.map": "./static/js/2.97c6f9b2.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.857773e7715838a7ad8dcd2a4eef85fb.js": "./precache-manifest.857773e7715838a7ad8dcd2a4eef85fb.js",
+    "precache-manifest.791cf261dc7f25eda11629659a47641b.js": "./precache-manifest.791cf261dc7f25eda11629659a47641b.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.9af9bf26.chunk.css.map": "./static/css/main.9af9bf26.chunk.css.map",
+    "static/css/main.6b8ed394.chunk.css.map": "./static/css/main.6b8ed394.chunk.css.map",
     "static/js/2.97c6f9b2.chunk.js.LICENSE.txt": "./static/js/2.97c6f9b2.chunk.js.LICENSE.txt",
     "static/media/fon.png": "./static/media/fon.6206770a.png",
     "static/media/ChangePassword.module.css": "./static/media/fon.959a77a3.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.b5b29441.js",
     "static/js/2.97c6f9b2.chunk.js",
-    "static/css/main.9af9bf26.chunk.css",
-    "static/js/main.45b0479d.chunk.js"
+    "static/css/main.6b8ed394.chunk.css",
+    "static/js/main.17040c67.chunk.js"
   ]
 }
