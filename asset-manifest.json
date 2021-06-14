@@ -1,25 +1,37 @@
 {
   "files": {
-    "main.css": "./static/css/main.6b8ed394.chunk.css",
-    "main.js": "./static/js/main.17040c67.chunk.js",
-    "main.js.map": "./static/js/main.17040c67.chunk.js.map",
+    "main.css": "./static/css/main.05116b35.chunk.css",
+    "main.js": "./static/js/main.e3dc32c8.chunk.js",
+    "main.js.map": "./static/js/main.e3dc32c8.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.b5b29441.js",
     "runtime-main.js.map": "./static/js/runtime-main.b5b29441.js.map",
-    "static/js/2.97c6f9b2.chunk.js": "./static/js/2.97c6f9b2.chunk.js",
-    "static/js/2.97c6f9b2.chunk.js.map": "./static/js/2.97c6f9b2.chunk.js.map",
+    "static/js/2.a9126198.chunk.js": "./static/js/2.a9126198.chunk.js",
+    "static/js/2.a9126198.chunk.js.map": "./static/js/2.a9126198.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.791cf261dc7f25eda11629659a47641b.js": "./precache-manifest.791cf261dc7f25eda11629659a47641b.js",
+    "precache-manifest.5eb93d8e74e2a64a38b952e303f38391.js": "./precache-manifest.5eb93d8e74e2a64a38b952e303f38391.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.6b8ed394.chunk.css.map": "./static/css/main.6b8ed394.chunk.css.map",
-    "static/js/2.97c6f9b2.chunk.js.LICENSE.txt": "./static/js/2.97c6f9b2.chunk.js.LICENSE.txt",
+    "static/css/main.05116b35.chunk.css.map": "./static/css/main.05116b35.chunk.css.map",
+    "static/js/2.a9126198.chunk.js.LICENSE.txt": "./static/js/2.a9126198.chunk.js.LICENSE.txt",
+    "static/media/1.svg": "./static/media/1.5ccf7954.svg",
+    "static/media/M4A4.png": "./static/media/M4A4.c1225db3.png",
     "static/media/fon.png": "./static/media/fon.6206770a.png",
-    "static/media/ChangePassword.module.css": "./static/media/fon.959a77a3.png",
-    "static/media/Sign.module.css": "./static/media/sign_1.ccb904b9.jfif"
+    "static/media/RecoveryPassword.module.css": "./static/media/fon_1.19be2732.png",
+    "static/media/Sign.module.css": "./static/media/fon_1.ab92963d.png",
+    "static/media/ChangePassword.module.css": "./static/media/fon_2.045bf219.png",
+    "static/media/left.png": "./static/media/left.ed6826fb.png",
+    "static/media/slider1.jpg": "./static/media/slider1.b7eaf25c.jpg",
+    "static/media/slider2.jpg": "./static/media/slider2.b6e3d283.jpg",
+    "static/media/slider3.jpg": "./static/media/slider3.2926b551.jpg",
+    "static/media/slider4.jpg": "./static/media/slider4.6c1c1a67.jpg",
+    "static/media/slider5.jpg": "./static/media/slider5.1715ae01.jpg",
+    "static/media/slider6.png": "./static/media/slider6.795b65d5.png",
+    "static/media/twitch.png": "./static/media/twitch.68c5c757.png",
+    "static/media/user_logo.png": "./static/media/user_logo.0afeee45.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b5b29441.js",
-    "static/js/2.97c6f9b2.chunk.js",
-    "static/css/main.6b8ed394.chunk.css",
-    "static/js/main.17040c67.chunk.js"
+    "static/js/2.a9126198.chunk.js",
+    "static/css/main.05116b35.chunk.css",
+    "static/js/main.e3dc32c8.chunk.js"
   ]
 }
